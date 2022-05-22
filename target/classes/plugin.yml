@@ -1,0 +1,10 @@
+name: Mordle
+version: 0.1
+main: io.github.dukespeed.mordle.Mordle
+api-version: 1.18
+
+commands:
+    mordle:
+        description: Starts a bad copy of the game of wordle
+        usage: /mordle
+        permission: io.github.dukespeed.mordle.mordle
